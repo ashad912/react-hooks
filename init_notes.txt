@@ -1,0 +1,4 @@
+npx create-react-app contextapp
+npx create-react-app hooksapp
+npm install uuid
+npm create-react-app booklist
